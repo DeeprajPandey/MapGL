@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Map GL</string>
+    <string name="mapbox" translatable="false">Mapbox</string>
+    <string name="menu_examplemaps">Map Styles</string>
+    <string name="reportBugs">Report Bugs</string>
+
+        <!-- Map Labels -->
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+    <string name="emerald">Emerald</string>
+    <string name="satellite">Satellite</string>
+    <string name="street">Street</string>
+
+        <!-- Access Token -->
+    <string name="testAccessToken" translatable="false">pk.eyJ1IjoiYmxlZWdlIiwiYSI6IkRGLTFPU00ifQ.qJpq3jytAL9A-z_tkNypqg</string>
+
+</resources>
+
+
+
+
